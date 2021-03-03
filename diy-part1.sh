@@ -15,4 +15,3 @@
 
 https://github.com/coolsnowwolf/lede.git
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-https://github.com/pymumu/smartdns.git package/smartdns
